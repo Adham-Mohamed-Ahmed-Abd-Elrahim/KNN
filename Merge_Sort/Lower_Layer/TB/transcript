@@ -1,0 +1,43 @@
+# ERROR: No extended dataflow license exists
+# vsim work.lower_22_tb 
+# Start time: 12:08:23 on Dec 27,2023
+# Loading sv_std.std
+# Loading work.lower_22_tb
+# Loading work.lower_layer_2_2_ctrl_top
+# Loading work.lower_layer_2_2_datapath
+# Loading work.swap_unit
+# Loading work.lower_layer_2_2_ctrl
+do {D:/Work Zone/Life After Graduation/Projects/KNN/Merge_Sort/Lower_Layer/TB/lower_22.do}
+run
+# ============================================================
+# =====================main task=====================0
+# ============================================================
+# ============================================================
+# =====================clock_gen =====================0
+# ============================================================
+# ============================================================
+# =====================reset =====================0
+# ============================================================
+# ============================================================
+# =====================data_entry =====================12
+# ============================================================
+run
+run
+run
+run
+run
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {D:/Work Zone/Life After Graduation/Projects/KNN/Merge_Sort/Lower_Layer/TB/lower_22.do}
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {D:/Work Zone/Life After Graduation/Projects/KNN/Merge_Sort/Lower_Layer/TB/lower_22.do}
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# End time: 14:16:41 on Dec 27,2023, Elapsed time: 2:08:18
+# Errors: 0, Warnings: 0
